@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>masliuk.svetlana</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>00_helloWorld</module>
+        <module>01_1_arrays</module>
+        <module>01_00_arrays</module>
+        <module>01_base_types</module>
+        <module>01_calculator</module>
+        <module>01_1_calculator</module>
+        <module>01_0_calculator</module>
+        <module>02_00_arrays</module>
+        <module>02_01_arrays</module>
+        <module>03_01_calculator</module>
+        <module>05_OOP</module>
+        <module>06_OOP</module>
+        <module>07_date</module>
+        <module>08_exception</module>
+        <module>09_collection</module>
+        <module>10_serialization</module>
+        <module>11_lamda_expression</module>
+        <module>12_streams</module>
+        <module>13_io</module>
+        <module>03_00_calculator</module>
+        <module>04_string</module>
+        <module>14_threads</module>
+        <module>15_generics</module>
+        <module>срез_1</module>
+        <module>test_1</module>
+        <module>test_2</module>
+        <module>interfaces</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>16</maven.compiler.source>
+        <maven.compiler.target>16</maven.compiler.target>
+    </properties>
+
+</project>

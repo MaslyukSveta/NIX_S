@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="02_01_arrays" />
+        <module name="00_helloWorld" />
+        <module name="02_00_arrays" />
+        <module name="12_streams" />
+        <module name="01_base_types" />
+        <module name="09_collection" />
+        <module name="11_lamda_expression" />
+        <module name="13_io" />
+        <module name="14_threads" />
+        <module name="05_OOP" />
+        <module name="10_serialization" />
+        <module name="test_2" />
+        <module name="test_1" />
+        <module name="03_01_calculator" />
+        <module name="05_oop" />
+        <module name="07_dates" />
+        <module name="06_oop" />
+        <module name="03_00_calculator" />
+        <module name="06_OOP" />
+        <module name="04_string" />
+        <module name="08_exception" />
+        <module name="15_generics" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="07_dates" target="16" />
+      <module name="interfaces" target="16" />
+      <module name="срез_1" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
